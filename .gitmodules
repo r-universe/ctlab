@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mwcsr"]
+	path = mwcsr
+	url = https://github.com/ctlab/mwcsr
+	shallow = true
+	registered = true
+[submodule "fgsea"]
+	path = fgsea
+	url = https://github.com/ctlab/fgsea
+	shallow = true
+	registered = true
+[submodule "phantasus"]
+	path = phantasus
+	url = https://github.com/ctlab/phantasus
+	shallow = true
+	registered = true

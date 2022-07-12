@@ -2,11 +2,5 @@
   {
     "package": "mwcsr",
     "oncran": true
-  },
-  {
-    "package": "fgsea"
-  },
-  {
-    "package": "phantasus"
   }
 ]

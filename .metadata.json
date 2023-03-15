@@ -3,10 +3,10 @@
     "package": "fgsea"
   },
   {
-    "package": "phantasus"
-  },
-  {
     "package": "mwcsr",
     "oncran": true
+  },
+  {
+    "package": "phantasus"
   }
 ]

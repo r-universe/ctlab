@@ -1,12 +1,12 @@
 [
   {
-    "package": "mwcsr",
-    "oncran": true
-  },
-  {
     "package": "fgsea"
   },
   {
     "package": "phantasus"
+  },
+  {
+    "package": "mwcsr",
+    "oncran": true
   }
 ]

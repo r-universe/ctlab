@@ -5,6 +5,9 @@
 [submodule "fgsea"]
 	path = fgsea
 	url = https://github.com/ctlab/fgsea
+[submodule "gatom"]
+	path = gatom
+	url = https://github.com/ctlab/gatom
 [submodule "mwcsr"]
 	path = mwcsr
 	url = https://github.com/ctlab/mwcsr

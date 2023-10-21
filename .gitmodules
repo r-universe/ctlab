@@ -14,3 +14,6 @@
 [submodule "phantasus"]
 	path = phantasus
 	url = https://github.com/ctlab/phantasus
+[submodule "phantasusLite"]
+	path = phantasusLite
+	url = https://github.com/ctlab/phantasuslite

@@ -2,18 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "fgsea"]
-	path = fgsea
-	url = https://github.com/ctlab/fgsea
-[submodule "gatom"]
-	path = gatom
-	url = https://github.com/ctlab/gatom
 [submodule "mwcsr"]
 	path = mwcsr
 	url = https://github.com/ctlab/mwcsr
-[submodule "phantasus"]
-	path = phantasus
-	url = https://github.com/ctlab/phantasus
-[submodule "phantasusLite"]
-	path = phantasusLite
-	url = https://github.com/ctlab/phantasuslite
